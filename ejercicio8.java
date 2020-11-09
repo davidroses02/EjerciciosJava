@@ -23,9 +23,11 @@ Variables:
 
 */
 
-
 public class ejercicio8 {
   public static void main(String[] args) {
-      
+    int prog;
+    switch (prog) {
+
+    }     
   }
 }
